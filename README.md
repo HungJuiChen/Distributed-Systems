@@ -1,6 +1,6 @@
 # Distributed Systems - CS425/ECE428 (Group 70)
 
-This repository contains the implementations for the **Distributed Systems course project** at **UIUC**. The project consists of multiple **Machine Problems (MPs)**, each focusing on different aspects of distributed systems, including membership protocols, consistency, failure detection, and distributed processing frameworks.
+This repository contains the implementations for the **Distributed Systems course project** at **UIUC**. The project consists of multiple **MPs**, each focusing on different aspects of distributed systems, including membership protocols, consistency, failure detection, and distributed processing frameworks.
 
 ## 📌 Project Overview
 
