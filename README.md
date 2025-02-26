@@ -122,6 +122,4 @@ python3 rainstorm.py --dataset <input_file>
 - SWIM: Scalable Weakly-consistent Infection-style Membership
 - Apache Spark: Distributed Data Processing
 
-Happy Coding! 🚀
-
 
